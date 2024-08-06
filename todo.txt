@@ -1,0 +1,4 @@
+1. Create a simple CRUD app with Go
+2. Dockerize React app
+3. Dockerize Go app
+4. Train model
